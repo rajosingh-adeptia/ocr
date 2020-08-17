@@ -183,6 +183,7 @@ public class AESEncrypterCustom {
 		//System.out.println(AESEncrypter(rawData));
 		//String encData=AESEncrypter(rawData);
 		System.out.println(AESEncrypter(rawData));
+		System.out.println(AESEncrypter(rawData));
 		System.out.println(ssnMasking("989765623",false));
 		System.out.println(ssnMasking("vLHCPb1SKhqb14oSNORZsA==",true));
 		//String encData = new AESEncrypterCustom(getAesBaseSecretKey()).encrypt(rawData);
